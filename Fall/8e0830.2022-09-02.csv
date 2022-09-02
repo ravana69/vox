@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Bahrain,CityCentreBahrain,English,08:00,Standard,822₹,110,1
+Bahrain,CityCentreBahrain,English,10:15,Standard,822₹,110,1
+Bahrain,CityCentreBahrain,English,12:30,Standard,822₹,110,1
+Bahrain,CityCentreBahrain,English,14:45,Standard,824₹,110,34
+Bahrain,CityCentreBahrain,English,17:00,Standard,824₹,110,47
+Oman,MallOfOman,English,17:00,StandardPremium,933₹,26,12
+Oman,MallOfOman,English,17:00,Standard,762₹,21,9
+Bahrain,CityCentreBahrain,English,19:15,Standard,824₹,110,48
+Kuwait,TheAvenuesKuwait,English,21:45,StandardPremiumFamily,"1,163₹",15,11
+Kuwait,TheAvenuesKuwait,English,21:45,StandardStandardFamily,904₹,8,0
+Kuwait,TheAvenuesKuwait,English,21:45,StandardPremiumBachelor,"1,163₹",16,9
+Kuwait,TheAvenuesKuwait,English,21:45,StandardStandardBachelor,904₹,7,2
