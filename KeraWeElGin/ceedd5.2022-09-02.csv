@@ -1,0 +1,15 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,CityCentreAlmaza,Egyptian,09:00,MaxPremium,331₹,46,10
+Egypt,CityCentreAlmaza,Egyptian,09:00,MaxStandard,331₹,99,0
+SaudiArabia,SaharaMallRiyadh,Egyptian,10:00,Standard,"1,166₹",61,4
+SaudiArabia,SaharaMallRiyadh,Egyptian,10:00,StandardPremium,"1,378₹",65,4
+SaudiArabia,SaharaMallRiyadh,Egyptian,16:10,Standard,"1,166₹",61,8
+SaudiArabia,SaharaMallRiyadh,Egyptian,16:10,StandardPremium,"1,378₹",65,48
+Egypt,CityCentreAlmaza,Egyptian,20:15,MaxPremium,538₹,46,44
+Egypt,CityCentreAlmaza,Egyptian,20:15,MaxStandard,497₹,99,79
+Egypt,MallOfEgypt,Egyptian,21:15,Standard,456₹,95,1
+Egypt,MallOfEgypt,Egyptian,21:15,StandardVip,497₹,91,12
+Egypt,MallOfEgypt,Egyptian,21:45,Standard,456₹,37,0
+Egypt,MallOfEgypt,Egyptian,21:45,StandardPremium,497₹,30,7
+SaudiArabia,SaharaMallRiyadh,Egyptian,22:10,Standard,"1,166₹",61,3
+SaudiArabia,SaharaMallRiyadh,Egyptian,22:10,StandardPremium,"1,378₹",65,22
