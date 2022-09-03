@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,English,09:30,TheatreStandard,"3,645₹",36,19
+Uae,MallOfTheEmirates,English,11:55,StandardPremium,"1,041₹",48,39
+Uae,MallOfTheEmirates,English,18:10,StandardPremium,"1,041₹",48,43
+Uae,TheGalleriaAlMaryahIsland,English,18:30,TheatreStandard,"3,906₹",12,4
