@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MegaplexCineplexGrandHyatt,Malayalam,15:20,Standard,797₹,39,14
+Uae,MegaplexCineplexGrandHyatt,Malayalam,15:20,StandardPremium,"1,041₹",61,59
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,Standard,797₹,39,22
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,StandardPremium,"1,041₹",61,48
