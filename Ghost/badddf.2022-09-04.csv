@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,Emirati,12:00,ZemanAwwalCinemaByVoxCinemasStandard,"1,085₹",18,0
+Uae,MallOfTheEmirates,Emirati,12:00,ZemanAwwalCinemaByVoxCinemasCouch,"1,085₹",9,0
+Uae,CityCentreAlZahia,Emirati,12:20,StandardPremium,"1,041₹",25,9
+Uae,CityCentreAlZahia,Emirati,12:20,Standard,797₹,31,0
+Uae,MallOfTheEmirates,Emirati,14:30,ZemanAwwalCinemaByVoxCinemasStandard,"1,085₹",18,0
+Uae,MallOfTheEmirates,Emirati,14:30,ZemanAwwalCinemaByVoxCinemasCouch,"1,085₹",9,2
+Uae,CityCentreMirdif,Emirati,14:35,StandardPremium,"1,038₹",38,0
+Uae,CityCentreAlZahia,Emirati,17:15,StandardPremium,"1,041₹",25,0
+Uae,CityCentreAlZahia,Emirati,17:15,Standard,797₹,31,2
+Uae,YasMallAbuDhabi,Emirati,18:30,StandardPremium,976₹,68,4
