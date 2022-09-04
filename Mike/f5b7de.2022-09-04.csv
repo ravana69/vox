@@ -1,0 +1,15 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreShindagha,Malayalam,09:00,Standard,797₹,31,0
+Uae,CityCentreShindagha,Malayalam,09:00,StandardPremium,"1,041₹",14,0
+Uae,CityCentreSharjah,Malayalam,12:55,Standard,797₹,40,35
+Uae,CityCentreSharjah,Malayalam,12:55,StandardPremium,"1,041₹",36,4
+Uae,CityCentreDeira,Malayalam,13:35,StandardPremium,"1,041₹",50,46
+Uae,CityCentreDeira,Malayalam,13:35,Standard,797₹,55,35
+Uae,Burjuman,Malayalam,13:55,VipPremium,"1,367₹",50,1
+Uae,Burjuman,Malayalam,16:20,StandardPremium,911₹,43,3
+Uae,CityCentreShindagha,Malayalam,17:10,Standard,797₹,31,2
+Uae,CityCentreShindagha,Malayalam,17:10,StandardPremium,"1,041₹",14,2
+Uae,CityCentreSharjah,Malayalam,18:40,Standard,797₹,40,17
+Uae,CityCentreSharjah,Malayalam,18:40,StandardPremium,"1,041₹",36,8
+Uae,CityCentreDeira,Malayalam,18:45,StandardPremium,"1,041₹",50,20
+Uae,CityCentreDeira,Malayalam,18:45,Standard,797₹,55,3
