@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,MallOfOman,Hindi,09:20,StandardPremium,933₹,26,0
+Oman,MallOfOman,Hindi,09:20,Standard,761₹,21,0
+Oman,MallOfOman,Hindi,15:45,StandardPremium,933₹,26,0
+Oman,MallOfOman,Hindi,15:45,Standard,761₹,19,3
