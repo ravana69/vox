@@ -1,0 +1,14 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreMirdif,English,09:35,StandardPremium,"1,041₹",29,0
+Uae,CityCentreMirdif,English,09:35,Standard,797₹,25,1
+Uae,MallOfTheEmirates,English,12:00,StandardPremium,"1,041₹",48,37
+Uae,TheGalleriaAlMaryahIsland,English,13:30,StandardPremium,"1,106₹",26,19
+Uae,TheGalleriaAlMaryahIsland,English,13:30,Standard,868₹,14,4
+Uae,YasMallAbuDhabi,English,17:20,StandardPremium,976₹,38,4
+Uae,MallOfTheEmirates,English,18:15,StandardPremium,"1,041₹",48,10
+SaudiArabia,TheRoofRiyadh,English,19:15,KidsPremium,"1,166₹",50,1
+SaudiArabia,RiyadhFrontRiyadh,English,20:00,KidsPremium,"1,166₹",50,6
+SaudiArabia,JubailGalleriaMallJubail,English,20:30,KidsStandard,"1,166₹",45,0
+SaudiArabia,JubailGalleriaMallJubail,English,20:30,KidsLounger,"1,166₹",4,0
+SaudiArabia,TheRoofRiyadh,English,22:00,KidsPremium,"1,166₹",50,0
+SaudiArabia,RiyadhFrontRiyadh,English,23:00,KidsPremium,"1,166₹",50,2
