@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Tamil,10:30,Standard,797₹,93,0
+Uae,CityCentreDeira,Tamil,10:30,StandardPremium,"1,041₹",88,2
+Uae,Burjuman,Tamil,11:10,Standard,797₹,31,7
+Uae,MegaplexCineplexGrandHyatt,Tamil,12:00,Standard,797₹,60,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,12:00,StandardPremium,"1,041₹",70,3
+Uae,CityCentreSharjah,Tamil,12:00,Standard,797₹,43,2
+Uae,CityCentreSharjah,Tamil,12:00,StandardPremium,"1,041₹",35,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,15:00,Standard,798₹,60,2
+Uae,MegaplexCineplexGrandHyatt,Tamil,15:00,StandardPremium,"1,042₹",70,5
+Uae,CityCentreDeira,Tamil,16:15,Standard,798₹,93,6
+Uae,CityCentreDeira,Tamil,16:15,StandardPremium,"1,042₹",88,9
+Uae,Burjuman,Tamil,17:20,Standard,798₹,31,10
+Uae,MegaplexCineplexGrandHyatt,Tamil,18:00,Standard,798₹,60,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,18:00,StandardPremium,"1,042₹",70,0
+Uae,CityCentreSharjah,Tamil,18:05,Standard,798₹,43,0
+Uae,CityCentreSharjah,Tamil,18:05,StandardPremium,"1,042₹",35,0
