@@ -1,0 +1,16 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreMirdif,English,06:30,StandardPremium,"1,041₹",71,4
+Uae,CityCentreMirdif,English,06:30,Standard,797₹,70,1
+Uae,MallOfTheEmirates,English,08:15,Standard,797₹,45,0
+Uae,MallOfTheEmirates,English,08:15,StandardPremium,"1,041₹",46,4
+Uae,MallOfTheEmirates,English,10:45,Standard,797₹,45,1
+Uae,MallOfTheEmirates,English,10:45,StandardPremium,"1,041₹",46,4
+Uae,MallOfTheEmirates,English,12:00,Standard,797₹,51,0
+Uae,MallOfTheEmirates,English,12:00,StandardPremium,"1,041₹",58,6
+Uae,CityCentreMirdif,English,13:55,StandardPremium,"1,042₹",20,3
+Uae,CityCentreMirdif,English,13:55,Standard,798₹,25,7
+Uae,MallOfTheEmirates,English,16:00,TheatreStandard,"3,648₹",36,16
+Uae,MallOfTheEmirates,English,17:00,Standard,798₹,51,6
+Uae,MallOfTheEmirates,English,17:00,StandardPremium,"1,042₹",58,19
+Uae,TheGalleriaAlMaryahIsland,English,19:00,StandardPremium,"1,107₹",26,0
+Uae,TheGalleriaAlMaryahIsland,English,19:00,Standard,868₹,14,1
