@@ -1,0 +1,6 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Tulu,11:10,Standard,798₹,31,3
+Oman,Ruwi,Tulu,12:50,Standard,629₹,27,0
+Uae,CityCentreShindagha,Tulu,15:00,Standard,798₹,67,15
+Uae,CityCentreShindagha,Tulu,15:00,StandardPremium,"1,043₹",24,0
+Uae,Burjuman,Tulu,17:20,KidsStandard,798₹,31,7
