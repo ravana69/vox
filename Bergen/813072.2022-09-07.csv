@@ -1,0 +1,9 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Kuwait,TheAvenuesKuwait,Turkish,18:25,StandardPremiumFamily,"1,162₹",15,14
+Kuwait,TheAvenuesKuwait,Turkish,18:25,StandardStandardFamily,904₹,10,2
+Kuwait,TheAvenuesKuwait,Turkish,18:25,StandardPremiumBachelor,"1,162₹",12,5
+Kuwait,TheAvenuesKuwait,Turkish,18:25,StandardStandardBachelor,904₹,10,0
+SaudiArabia,TownSquareJeddah,Turkish,19:15,KidsPremium,"1,169₹",41,2
+SaudiArabia,TownSquareJeddah,Turkish,19:15,KidsLounger,"1,169₹",6,0
+SaudiArabia,TownSquareJeddah,Turkish,22:15,KidsPremium,"1,169₹",41,0
+SaudiArabia,TownSquareJeddah,Turkish,22:15,KidsLounger,"1,169₹",6,0
