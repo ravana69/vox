@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,English,10:45,Standard,455₹,41,5
+Egypt,CityCentreAlmaza,English,12:00,StandardPremium,497₹,42,13
+Egypt,MallOfEgypt,English,13:00,Standard,455₹,41,2
+Egypt,MallOfEgypt,English,15:15,Standard,455₹,41,2
+Egypt,CityCentreAlmaza,English,17:00,StandardPremium,497₹,42,5
+Egypt,MallOfEgypt,English,17:30,Standard,455₹,41,2
+Egypt,MallOfEgypt,English,19:45,Standard,455₹,41,13
+Bahrain,VoxCinemasTheAvenues,English,20:15,Standard,932₹,41,2
+Bahrain,VoxCinemasTheAvenues,English,20:15,StandardPremium,"1,166₹",25,3
+Egypt,CityCentreAlmaza,English,22:00,StandardPremium,497₹,42,5
+Egypt,MallOfEgypt,English,22:00,Standard,455₹,41,2
