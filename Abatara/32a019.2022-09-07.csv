@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Tulu,11:35,Standard,798₹,64,0
+Uae,CityCentreDeira,Tulu,11:35,StandardPremium,"1,043₹",43,2
+Uae,CityCentreShindagha,Tulu,11:55,Standard,799₹,67,0
+Uae,CityCentreShindagha,Tulu,11:55,StandardPremium,"1,044₹",24,0
+Oman,Ruwi,Tulu,13:00,Standard,629₹,27,0
+Uae,Burjuman,Tulu,14:10,Standard,799₹,31,3
+Oman,Ruwi,Tulu,15:50,Standard,631₹,27,0
+Uae,Burjuman,Tulu,18:00,StandardPremium,913₹,43,2
+Uae,CityCentreDeira,Tulu,18:00,Standard,799₹,64,2
+Uae,CityCentreDeira,Tulu,18:00,StandardPremium,"1,044₹",43,0
+Uae,CityCentreShindagha,Tulu,18:10,Standard,799₹,67,10
+Uae,CityCentreShindagha,Tulu,18:10,StandardPremium,"1,044₹",24,0
