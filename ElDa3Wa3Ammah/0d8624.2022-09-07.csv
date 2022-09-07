@@ -1,0 +1,14 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Bahrain,VoxCinemasTheAvenues,Egyptian,20:00,Standard,932₹,21,2
+Bahrain,VoxCinemasTheAvenues,Egyptian,20:00,StandardPremium,"1,166₹",30,4
+SaudiArabia,RiyadhFrontRiyadh,Egyptian,20:00,StandardPremium,"1,382₹",31,20
+SaudiArabia,RiyadhFrontRiyadh,Egyptian,20:00,Standard,"1,169₹",16,6
+SaudiArabia,RedSeaMallJeddah,Egyptian,21:45,StandardPremium,"1,382₹",92,24
+SaudiArabia,RedSeaMallJeddah,Egyptian,21:45,Standard,"1,169₹",68,17
+SaudiArabia,RedSeaMallJeddah,Egyptian,21:45,StandardWheelchairSpace,"1,169₹",3,0
+SaudiArabia,AlQasrMallRiyadh,Egyptian,21:45,StandardPremium,"1,382₹",32,3
+SaudiArabia,AlQasrMallRiyadh,Egyptian,21:45,Standard,"1,169₹",22,0
+SaudiArabia,RiyadhFrontRiyadh,Egyptian,22:00,StandardPremium,"1,382₹",31,3
+SaudiArabia,RiyadhFrontRiyadh,Egyptian,22:00,Standard,"1,169₹",16,2
+SaudiArabia,TownSquareJeddah,Egyptian,23:00,StandardPremium,"1,382₹",20,5
+SaudiArabia,TownSquareJeddah,Egyptian,23:00,Standard,"1,169₹",26,8
