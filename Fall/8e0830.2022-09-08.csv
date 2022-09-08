@@ -1,0 +1,16 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Kuwait,TheAvenuesKuwait,English,09:25,StandardPremiumFamily,"1,162₹",15,0
+Kuwait,TheAvenuesKuwait,English,09:25,StandardStandardFamily,904₹,10,0
+Kuwait,TheAvenuesKuwait,English,09:25,StandardPremiumBachelor,"1,162₹",12,1
+Kuwait,TheAvenuesKuwait,English,09:25,StandardStandardBachelor,904₹,10,0
+Bahrain,CityCentreBahrain,English,17:00,Standard,826₹,130,1
+Kuwait,TheAvenuesKuwait,English,18:40,StandardPremiumFamily,"1,162₹",15,0
+Kuwait,TheAvenuesKuwait,English,18:40,StandardStandardFamily,904₹,10,0
+Kuwait,TheAvenuesKuwait,English,18:40,StandardPremiumBachelor,"1,162₹",12,4
+Kuwait,TheAvenuesKuwait,English,18:40,StandardStandardBachelor,904₹,10,0
+Bahrain,CityCentreBahrain,English,19:15,Standard,826₹,130,3
+Kuwait,TheAvenuesKuwait,English,19:30,StandardPremiumFamily,"1,162₹",15,9
+Kuwait,TheAvenuesKuwait,English,19:30,StandardStandardFamily,904₹,10,0
+Kuwait,TheAvenuesKuwait,English,19:30,StandardPremiumBachelor,"1,162₹",12,8
+Kuwait,TheAvenuesKuwait,English,19:30,StandardStandardBachelor,904₹,10,0
+Bahrain,CityCentreBahrain,English,21:30,Standard,826₹,130,9
