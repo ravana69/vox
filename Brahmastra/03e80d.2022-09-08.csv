@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,TheGalleriaAlMaryahIsland,Hindi,10:00,TheatreStandard,"3,909₹",32,2
+Uae,WafiMallAtWafiCity,Hindi,12:00,TheatreStandard,"3,651₹",66,0
+Uae,WafiMallAtWafiCity,Hindi,13:00,SamsungOnyxPremium,"3,651₹",56,1
+Uae,TheGalleriaAlMaryahIsland,Hindi,14:00,TheatreStandard,"3,909₹",32,2
+Uae,WafiMallAtWafiCity,Hindi,14:30,GoldStandard,"2,053₹",42,3
+Uae,WafiMallAtWafiCity,Hindi,15:00,TheatreStandard,"3,651₹",42,0
+Uae,WafiMallAtWafiCity,Hindi,17:15,SamsungOnyxPremium,"3,651₹",56,3
+Uae,CityCentreMirdif,Hindi,17:30,TheatreStandard,"3,655₹",40,7
+Uae,TheGalleriaAlMaryahIsland,Hindi,17:45,TheatreStandard,"3,909₹",32,2
+Uae,WafiMallAtWafiCity,Hindi,18:00,TheatreStandard,"3,651₹",66,0
