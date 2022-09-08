@@ -1,0 +1,7 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MegaplexCineplexGrandHyatt,Tamil,10:55,Standard,799₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,10:55,StandardPremium,"1,044₹",58,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,17:30,Standard,799₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,17:30,StandardPremium,"1,044₹",58,0
+Uae,CityCentreDeira,Tamil,19:00,Standard,799₹,64,2
+Uae,CityCentreDeira,Tamil,19:00,StandardPremium,"1,044₹",43,4
