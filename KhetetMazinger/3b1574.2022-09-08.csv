@@ -1,0 +1,8 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,Egyptian,16:30,Standard,455₹,37,0
+Egypt,MallOfEgypt,Egyptian,16:30,StandardPremium,497₹,30,4
+Egypt,MallOfEgypt,Egyptian,19:00,Standard,455₹,37,0
+Egypt,MallOfEgypt,Egyptian,19:00,StandardPremium,497₹,30,4
+Egypt,MallOfEgypt,Egyptian,21:30,Standard,455₹,37,0
+Egypt,MallOfEgypt,Egyptian,21:30,StandardPremium,497₹,30,4
+SaudiArabia,RedSeaMallJeddah,Egyptian,22:25,KidsStandard,"1,169₹",69,7
