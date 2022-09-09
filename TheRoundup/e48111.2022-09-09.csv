@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhFrontRiyadh,Korean,01:30,StandardPremium,"1,382₹",31,1
+SaudiArabia,RiyadhFrontRiyadh,Korean,01:30,Standard,"1,169₹",40,2
+SaudiArabia,AlQasrMallRiyadh,Korean,10:25,StandardPremium,"1,382₹",41,2
+SaudiArabia,AlQasrMallRiyadh,Korean,10:25,Standard,"1,169₹",38,4
+Kuwait,TheAvenuesKuwait,Korean,13:25,StandardPremiumFamily,"1,161₹",15,7
+Kuwait,TheAvenuesKuwait,Korean,13:25,StandardStandardFamily,903₹,10,0
+Kuwait,TheAvenuesKuwait,Korean,13:25,StandardPremiumBachelor,"1,161₹",12,9
+Kuwait,TheAvenuesKuwait,Korean,13:25,StandardStandardBachelor,903₹,10,0
+Kuwait,TheAvenuesKuwait,Korean,17:10,StandardPremiumFamily,"1,161₹",15,10
+Kuwait,TheAvenuesKuwait,Korean,17:10,StandardStandardFamily,903₹,10,2
+Kuwait,TheAvenuesKuwait,Korean,17:10,StandardPremiumBachelor,"1,161₹",12,11
+Kuwait,TheAvenuesKuwait,Korean,17:10,StandardStandardBachelor,903₹,11,8
+SaudiArabia,AlQasrMallRiyadh,Korean,19:20,StandardPremium,"1,376₹",41,5
+SaudiArabia,AlQasrMallRiyadh,Korean,19:20,Standard,"1,164₹",38,2
+Uae,CityCentreAlZahia,Korean,19:50,StandardPremium,"1,039₹",25,9
+Uae,CityCentreAlZahia,Korean,19:50,Standard,796₹,31,7
