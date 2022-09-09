@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,Egyptian,09:00,Standard,455₹,37,0
+Egypt,MallOfEgypt,Egyptian,09:00,StandardPremium,497₹,30,4
+Egypt,CityCentreAlmaza,Egyptian,09:15,StandardPremium,497₹,42,5
+Egypt,MallOfEgypt,Egyptian,11:30,Standard,455₹,37,0
+Egypt,MallOfEgypt,Egyptian,11:30,StandardPremium,497₹,30,8
+Egypt,MallOfEgypt,Egyptian,14:00,Standard,452₹,37,0
+Egypt,MallOfEgypt,Egyptian,14:00,StandardPremium,494₹,30,17
+Egypt,CityCentreAlmaza,Egyptian,14:15,StandardPremium,494₹,42,9
+Egypt,MallOfEgypt,Egyptian,16:30,Standard,452₹,37,10
+Egypt,MallOfEgypt,Egyptian,16:30,StandardPremium,494₹,30,22
+Egypt,MallOfEgypt,Egyptian,19:00,Standard,452₹,37,6
+Egypt,MallOfEgypt,Egyptian,19:00,StandardPremium,494₹,30,27
+Egypt,CityCentreAlmaza,Egyptian,19:15,StandardPremium,494₹,42,20
+Egypt,MallOfEgypt,Egyptian,21:30,Standard,452₹,37,0
+Egypt,MallOfEgypt,Egyptian,21:30,StandardPremium,494₹,30,7
+SaudiArabia,RedSeaMallJeddah,Egyptian,22:15,KidsStandard,"1,164₹",69,14
