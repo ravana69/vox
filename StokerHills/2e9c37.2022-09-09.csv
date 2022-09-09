@@ -1,0 +1,3 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhParkRiyadh,English,12:45,StandardPremium,"1,376₹",28,9
+SaudiArabia,RiyadhParkRiyadh,English,12:45,Standard,"1,164₹",28,7
