@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Qatar,DohaFestivalCity,Japanese,10:55,Standard,877₹,22,0
+Qatar,DohaFestivalCity,Japanese,10:55,StandardPremium,"1,097₹",28,7
+Qatar,DohaFestivalCity,Japanese,15:20,Standard,874₹,22,13
+Qatar,DohaFestivalCity,Japanese,15:20,StandardPremium,"1,092₹",28,27
