@@ -1,0 +1,9 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Bahrain,CityCentreBahrain,Hindi,08:30,Standard,823₹,119,1
+Uae,Burjuman,Hindi,11:20,Standard,799₹,48,3
+Bahrain,CityCentreBahrain,Hindi,14:00,Standard,830₹,119,9
+Uae,CityCentreDeira,Hindi,14:45,Standard,799₹,54,0
+Uae,CityCentreDeira,Hindi,14:45,StandardPremium,"1,044₹",50,0
+Oman,MallOfOman,Hindi,18:00,KidsPremium,761₹,20,8
+Uae,Burjuman,Hindi,18:05,Standard,796₹,48,37
+Bahrain,CityCentreBahrain,Hindi,19:30,Standard,830₹,119,11
