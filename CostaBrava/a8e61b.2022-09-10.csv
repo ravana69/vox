@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Lebanon,CityCentreBeirut,Lebanese,08:10,Standard,"4,468₹",92,0
+Lebanon,CityCentreBeirut,Lebanese,08:10,StandardVip,"4,994₹",58,1
+Lebanon,CityCentreBeirut,Lebanese,10:25,Standard,"4,468₹",92,0
+Lebanon,CityCentreBeirut,Lebanese,10:25,StandardVip,"4,994₹",58,1
+Lebanon,CityCentreBeirut,Lebanese,12:00,GoldStandard,"6,834₹",30,6
+Lebanon,CityCentreBeirut,Lebanese,12:40,Standard,"4,512₹",92,0
+Lebanon,CityCentreBeirut,Lebanese,12:40,StandardVip,"5,043₹",58,1
+Lebanon,CityCentreBeirut,Lebanese,14:55,Standard,"4,512₹",92,1
+Lebanon,CityCentreBeirut,Lebanese,14:55,StandardVip,"5,043₹",58,6
+Lebanon,CityCentreBeirut,Lebanese,16:00,GoldStandard,"6,902₹",22,0
+Lebanon,CityCentreBeirut,Lebanese,17:10,Standard,"4,512₹",92,7
+Lebanon,CityCentreBeirut,Lebanese,17:10,StandardVip,"5,043₹",58,6
