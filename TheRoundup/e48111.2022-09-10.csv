@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhFrontRiyadh,Korean,01:45,StandardPremium,"1,376₹",31,0
+SaudiArabia,RiyadhFrontRiyadh,Korean,01:45,Standard,"1,164₹",40,2
+Kuwait,TheAvenuesKuwait,Korean,15:20,StandardPremiumFamily,"1,162₹",15,5
+Kuwait,TheAvenuesKuwait,Korean,15:20,StandardStandardFamily,903₹,10,0
+Kuwait,TheAvenuesKuwait,Korean,15:20,StandardPremiumBachelor,"1,162₹",12,3
+Kuwait,TheAvenuesKuwait,Korean,15:20,StandardStandardBachelor,903₹,10,0
+Kuwait,TheAvenuesKuwait,Korean,17:30,StandardPremiumFamily,"1,162₹",15,10
+Kuwait,TheAvenuesKuwait,Korean,17:30,StandardStandardFamily,903₹,10,0
+Kuwait,TheAvenuesKuwait,Korean,17:30,StandardPremiumBachelor,"1,162₹",12,8
+Kuwait,TheAvenuesKuwait,Korean,17:30,StandardStandardBachelor,903₹,10,2
+Uae,CityCentreAlZahia,Korean,19:45,StandardPremium,"1,044₹",25,0
+Uae,CityCentreAlZahia,Korean,19:45,Standard,799₹,31,0
+Kuwait,TheAvenuesKuwait,Korean,21:50,StandardPremiumFamily,"1,162₹",15,9
+Kuwait,TheAvenuesKuwait,Korean,21:50,StandardStandardFamily,903₹,10,2
+Kuwait,TheAvenuesKuwait,Korean,21:50,StandardPremiumBachelor,"1,162₹",12,9
+Kuwait,TheAvenuesKuwait,Korean,21:50,StandardStandardBachelor,903₹,10,0
