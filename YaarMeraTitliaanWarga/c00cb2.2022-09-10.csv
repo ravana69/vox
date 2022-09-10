@@ -1,0 +1,4 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Punjabi,11:40,VipPremium,"1,370₹",50,3
+Uae,CityCentreDeira,Punjabi,13:25,Standard,799₹,35,0
+Uae,Burjuman,Punjabi,16:45,VipPremium,"1,370₹",50,3
