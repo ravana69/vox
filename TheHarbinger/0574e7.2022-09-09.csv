@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhFrontRiyadh,English,13:00,StandardPremium,"1,376₹",31,8
+SaudiArabia,RiyadhFrontRiyadh,English,13:00,Standard,"1,164₹",16,5
+SaudiArabia,TownSquareJeddah,English,13:00,StandardPremium,"1,376₹",20,0
+SaudiArabia,TownSquareJeddah,English,13:00,Standard,"1,164₹",26,0
+SaudiArabia,TownSquareJeddah,English,18:00,StandardPremium,"1,376₹",20,19
+SaudiArabia,TownSquareJeddah,English,18:00,Standard,"1,164₹",26,15
+SaudiArabia,TheRoofRiyadh,English,22:40,KidsPremium,"1,164₹",50,8
+SaudiArabia,TownSquareJeddah,English,23:10,StandardPremium,"1,380₹",20,0
+SaudiArabia,TownSquareJeddah,English,23:10,Standard,"1,168₹",26,0
+SaudiArabia,RiyadhFrontRiyadh,English,23:30,StandardPremium,"1,376₹",31,2
+SaudiArabia,RiyadhFrontRiyadh,English,23:30,Standard,"1,164₹",16,4
