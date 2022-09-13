@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Malayalam,10:00,Standard,799₹,93,0
+Uae,CityCentreDeira,Malayalam,10:00,StandardPremium,"1,044₹",88,0
+Uae,CityCentreDeira,Malayalam,10:05,Standard,795₹,93,0
+Uae,CityCentreDeira,Malayalam,10:05,StandardPremium,"1,038₹",88,0
+Uae,CityCentreSharjah,Malayalam,12:45,StandardPremium,905₹,46,0
+Uae,CityCentreDeira,Malayalam,16:20,Standard,799₹,93,0
+Uae,CityCentreDeira,Malayalam,16:20,StandardPremium,"1,044₹",88,0
+Uae,CityCentreDeira,Malayalam,16:30,Standard,792₹,93,0
+Uae,CityCentreDeira,Malayalam,16:30,StandardPremium,"1,034₹",88,0
+Uae,CityCentreSharjah,Malayalam,18:35,StandardPremium,905₹,46,3
