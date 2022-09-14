@@ -1,0 +1,16 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MegaplexCineplexGrandHyatt,Kannada,10:25,Standard,796₹,39,2
+Uae,MegaplexCineplexGrandHyatt,Kannada,10:25,StandardPremium,"1,040₹",61,0
+Uae,MegaplexCineplexGrandHyatt,Kannada,13:45,Standard,795₹,39,0
+Uae,MegaplexCineplexGrandHyatt,Kannada,13:45,StandardPremium,"1,038₹",61,0
+Uae,CityCentreShindagha,Kannada,14:25,Standard,799₹,93,0
+Uae,CityCentreShindagha,Kannada,14:25,StandardPremium,"1,044₹",31,0
+Uae,Burjuman,Kannada,14:30,Standard,795₹,48,5
+Uae,CityCentreSharjah,Kannada,15:50,StandardPremium,909₹,70,0
+Uae,Burjuman,Kannada,17:30,StandardPremium,913₹,43,2
+Uae,CityCentreDeira,Kannada,17:45,Standard,796₹,54,0
+Uae,CityCentreDeira,Kannada,17:45,StandardPremium,"1,040₹",50,0
+Oman,Ruwi,Kannada,19:00,Standard,627₹,27,1
+Uae,Burjuman,Kannada,19:15,StandardPremium,909₹,43,2
+Uae,CityCentreShindagha,Kannada,19:20,Standard,795₹,31,2
+Uae,CityCentreShindagha,Kannada,19:20,StandardPremium,"1,038₹",14,2

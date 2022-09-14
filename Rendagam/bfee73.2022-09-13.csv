@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Tamil,12:10,VipPremium,"1,363₹",50,16
+Oman,Azaiba,Tamil,12:30,Standard,584₹,102,4
+Uae,MegaplexCineplexGrandHyatt,Tamil,12:55,Standard,799₹,60,0
+Uae,MegaplexCineplexGrandHyatt,Tamil,12:55,StandardPremium,"1,044₹",70,0
+Oman,Ruwi,Tamil,13:30,Standard,631₹,27,0
+Uae,CityCentreSharjah,Tamil,15:30,Standard,799₹,40,0
+Uae,CityCentreSharjah,Tamil,15:30,StandardVip,"1,044₹",26,1
+Uae,CityCentreDeira,Tamil,16:00,StandardPremium,"1,044₹",37,0
+Uae,CityCentreShindagha,Tamil,16:25,Standard,799₹,31,0
+Uae,CityCentreShindagha,Tamil,16:25,StandardPremium,"1,044₹",14,0
+Uae,Burjuman,Tamil,18:00,VipPremium,"1,357₹",50,16
+Oman,Ruwi,Tamil,18:45,Standard,627₹,27,0
