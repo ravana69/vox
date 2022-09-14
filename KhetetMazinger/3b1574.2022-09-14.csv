@@ -1,0 +1,3 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RedSeaMallJeddah,Egyptian,20:05,KidsStandard,"1,163₹",69,7
+SaudiArabia,RedSeaMallJeddah,Egyptian,22:20,KidsStandard,"1,163₹",69,2
