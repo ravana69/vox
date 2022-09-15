@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RedSeaMallJeddah,English,00:55,StandardPremium,"1,378₹",66,0
+SaudiArabia,RedSeaMallJeddah,English,00:55,Standard,"1,166₹",60,0
+SaudiArabia,RedSeaMallJeddah,English,00:55,StandardWheelchairSpace,"1,166₹",3,0
+SaudiArabia,RiyadhFrontRiyadh,English,01:15,StandardPremium,"1,378₹",33,0
+SaudiArabia,RiyadhFrontRiyadh,English,01:15,Standard,"1,166₹",40,2
+SaudiArabia,TownSquareJeddah,English,07:15,StandardPremium,"1,378₹",76,0
+SaudiArabia,TownSquareJeddah,English,07:15,Standard,"1,166₹",75,0
+SaudiArabia,TownSquareJeddah,English,13:00,StandardPremium,"1,378₹",76,0
+SaudiArabia,TownSquareJeddah,English,13:00,Standard,"1,166₹",75,0
+SaudiArabia,TownSquareJeddah,English,18:45,StandardPremium,"1,378₹",76,0
+SaudiArabia,TownSquareJeddah,English,18:45,Standard,"1,166₹",75,0

@@ -1,0 +1,6 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,CityCentreMuscat,English,19:25,Standard,651₹,36,5
+Oman,MallOfOman,English,19:25,StandardPremium,932₹,26,1
+Oman,MallOfOman,English,19:25,Standard,760₹,21,5
+Bahrain,VoxCinemasTheAvenues,English,20:45,Standard,927₹,23,2
+Bahrain,VoxCinemasTheAvenues,English,20:45,StandardPremium,"1,159₹",30,0

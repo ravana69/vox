@@ -1,0 +1,8 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,KingdomCentreRiyadh,English,15:30,VipStandard,"3,172₹",30,22
+Bahrain,CityCentreBahrain,English,17:00,Standard,822₹,130,7
+Kuwait,TheAvenuesKuwait,English,18:45,StandardPremiumFamily,"1,158₹",15,15
+Kuwait,TheAvenuesKuwait,English,18:45,StandardStandardFamily,901₹,10,10
+Kuwait,TheAvenuesKuwait,English,18:45,StandardPremiumBachelor,"1,158₹",12,11
+Kuwait,TheAvenuesKuwait,English,18:45,StandardStandardBachelor,901₹,10,7
+Bahrain,CityCentreBahrain,English,19:15,Standard,822₹,130,8
