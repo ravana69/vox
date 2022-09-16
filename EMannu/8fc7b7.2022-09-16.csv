@@ -1,0 +1,6 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Kannada,12:00,Standard,798₹,31,4
+Uae,CityCentreShindagha,Kannada,13:15,Standard,797₹,31,0
+Uae,CityCentreShindagha,Kannada,13:15,StandardPremium,"1,041₹",14,0
+Uae,CityCentreDeira,Kannada,14:00,Standard,797₹,35,2
+Uae,Burjuman,Kannada,18:00,Standard,797₹,31,2
