@@ -1,0 +1,15 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MegaplexCineplexGrandHyatt,Malayalam,07:10,Standard,798₹,39,2
+Uae,MegaplexCineplexGrandHyatt,Malayalam,07:10,StandardPremium,"1,042₹",61,1
+Uae,CityCentreDeira,Malayalam,09:30,Standard,798₹,96,3
+Uae,CityCentreDeira,Malayalam,09:30,StandardPremium,"1,042₹",57,0
+Uae,CityCentreSharjah,Malayalam,09:30,Standard,798₹,40,5
+Uae,CityCentreSharjah,Malayalam,09:30,StandardVip,"1,042₹",26,1
+Uae,MegaplexCineplexGrandHyatt,Malayalam,13:20,Standard,797₹,39,0
+Uae,MegaplexCineplexGrandHyatt,Malayalam,13:20,StandardPremium,"1,041₹",61,6
+Uae,CityCentreSharjah,Malayalam,15:45,Standard,797₹,40,10
+Uae,CityCentreSharjah,Malayalam,15:45,StandardVip,"1,041₹",26,15
+Uae,CityCentreShindagha,Malayalam,16:05,Standard,797₹,31,10
+Uae,CityCentreShindagha,Malayalam,16:05,StandardPremium,"1,041₹",14,0
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,Standard,795₹,39,0
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,StandardPremium,"1,039₹",61,1
