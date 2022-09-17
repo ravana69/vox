@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,English,08:00,Standard,797₹,45,8
+Uae,MallOfTheEmirates,English,08:00,StandardPremium,"1,041₹",46,8
+Uae,MallOfTheEmirates,English,11:25,Standard,797₹,68,24
+Uae,MallOfTheEmirates,English,11:25,StandardPremium,"1,041₹",69,40
+Uae,MallOfTheEmirates,English,13:30,Standard,796₹,45,38
+Uae,MallOfTheEmirates,English,13:30,StandardPremium,"1,040₹",46,42
+Uae,MallOfTheEmirates,English,15:00,4DxVirginRadioStandard,"1,707₹",160,44
+Uae,CityCentreMirdif,English,15:20,StandardPremium,910₹,44,41
+Uae,MallOfTheEmirates,English,19:10,Standard,796₹,45,4
+Uae,MallOfTheEmirates,English,19:10,StandardPremium,"1,040₹",46,16
