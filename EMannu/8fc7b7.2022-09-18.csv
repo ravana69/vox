@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Kannada,09:00,VipPremium,"1,368₹",50,16
+Uae,Burjuman,Kannada,12:00,Standard,798₹,31,2
+Uae,CityCentreDeira,Kannada,14:00,Standard,798₹,35,0
+Uae,Burjuman,Kannada,18:00,Standard,798₹,31,2
