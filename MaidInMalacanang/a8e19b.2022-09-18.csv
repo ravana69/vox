@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Tagalog,08:15,StandardPremium,912₹,43,2
+Uae,MallOfTheEmirates,Tagalog,08:30,StandardPremium,"1,040₹",48,14
+Uae,CityCentreDeira,Tagalog,09:00,StandardPremium,"1,040₹",50,5
+Uae,CityCentreDeira,Tagalog,09:00,Standard,796₹,55,9
+Uae,Burjuman,Tagalog,10:45,StandardPremium,912₹,43,2
+Uae,Burjuman,Tagalog,13:15,StandardPremium,912₹,43,2
+Uae,AbuDhabiMallAbuDhabi,Tagalog,14:15,Standard,867₹,56,14
+Uae,AbuDhabiMallAbuDhabi,Tagalog,14:15,StandardPremium,"1,105₹",27,8
+Uae,CityCentreDeira,Tagalog,14:30,StandardPremium,"1,040₹",50,20
+Uae,CityCentreDeira,Tagalog,14:30,Standard,796₹,55,24
