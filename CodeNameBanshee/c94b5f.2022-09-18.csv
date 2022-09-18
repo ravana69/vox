@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,MallOfOman,English,10:40,StandardPremium,933₹,26,0
+Oman,MallOfOman,English,10:40,Standard,761₹,21,0
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,15:10,Standard,"1,165₹",44,0
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,15:10,StandardPremium,"1,377₹",45,4
+Uae,TheGalleriaAlMaryahIsland,English,16:45,StandardPremium,"1,107₹",26,0
+Uae,TheGalleriaAlMaryahIsland,English,16:45,Standard,868₹,14,0
+Qatar,DohaOasis,English,17:40,Standard,986₹,43,0
+Oman,MallOfOman,English,18:45,StandardPremium,933₹,26,0
+Oman,MallOfOman,English,18:45,Standard,761₹,21,0
+Oman,CityCentreMuscat,English,19:00,Standard,652₹,36,4
+Uae,MallOfTheEmirates,English,19:15,StandardPremium,"1,042₹",48,4
+Uae,CityCentreMirdif,English,19:30,StandardPremium,"1,040₹",71,4
+Uae,CityCentreMirdif,English,19:30,Standard,796₹,70,5
+SaudiArabia,WestAvenueMallDammam,English,20:15,KidsStandard,"1,165₹",39,4
+SaudiArabia,TownSquareJeddah,English,20:45,KidsPremium,"1,165₹",41,0
+SaudiArabia,TownSquareJeddah,English,20:45,KidsLounger,"1,165₹",6,0
