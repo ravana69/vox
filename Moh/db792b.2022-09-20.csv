@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Punjabi,13:10,Standard,796₹,38,4
+Uae,CityCentreDeira,Punjabi,13:20,Standard,796₹,35,0
+Uae,CityCentreDeira,Punjabi,16:20,Standard,796₹,35,2
+Uae,Burjuman,Punjabi,19:15,Standard,796₹,38,15
