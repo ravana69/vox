@@ -1,0 +1,9 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreSharjah,Telugu,10:00,StandardPremium,911₹,46,0
+Uae,CityCentreDeira,Telugu,12:10,Standard,797₹,54,0
+Uae,CityCentreDeira,Telugu,12:10,StandardPremium,"1,041₹",50,0
+Uae,Burjuman,Telugu,15:00,Standard,798₹,31,2
+Uae,CityCentreShindagha,Telugu,15:00,Standard,796₹,67,0
+Uae,CityCentreShindagha,Telugu,15:00,StandardPremium,"1,040₹",24,0
+Uae,CityCentreSharjah,Telugu,15:50,StandardPremium,911₹,46,0
+Uae,Burjuman,Telugu,19:35,Standard,797₹,31,2
