@@ -1,0 +1,14 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,Sur,English,19:00,Standard,502₹,252,4
+Oman,CityCentreSuhar,English,19:00,Standard,654₹,50,0
+Oman,CityCentreSuhar,English,19:00,StandardPremium,764₹,28,4
+Oman,CityCentreMuscat,English,19:00,Standard,654₹,36,2
+Oman,MallOfOman,English,19:00,StandardPremium,936₹,26,0
+Oman,MallOfOman,English,19:00,Standard,764₹,21,3
+Oman,CityCentreQurum,English,19:30,Standard,764₹,42,0
+Oman,CityCentreQurum,English,19:30,StandardPremium,936₹,53,4
+Bahrain,VoxCinemasTheAvenues,English,20:00,Standard,933₹,82,2
+Bahrain,VoxCinemasTheAvenues,English,20:00,StandardPremium,"1,166₹",38,0
+Qatar,DohaFestivalCity,English,20:00,Standard,878₹,18,0
+Qatar,DohaFestivalCity,English,20:00,StandardPremium,"1,097₹",25,0
+Qatar,DohaOasis,English,20:00,Standard,988₹,38,2
