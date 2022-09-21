@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Kuwait,TheAvenuesKuwait,Indonesian,20:55,StandardPremiumFamily,"1,163₹",15,3
+Kuwait,TheAvenuesKuwait,Indonesian,20:55,StandardStandardFamily,905₹,8,0
+Kuwait,TheAvenuesKuwait,Indonesian,20:55,StandardPremiumBachelor,"1,163₹",16,5
+Kuwait,TheAvenuesKuwait,Indonesian,20:55,StandardStandardBachelor,905₹,7,0
