@@ -1,0 +1,15 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhFrontRiyadh,Arabic,06:45,StandardPremium,"1,377₹",31,0
+SaudiArabia,RiyadhFrontRiyadh,Arabic,06:45,Standard,"1,165₹",16,2
+SaudiArabia,RiyadhFrontRiyadh,Arabic,11:00,StandardPremium,"1,377₹",31,0
+SaudiArabia,RiyadhFrontRiyadh,Arabic,11:00,Standard,"1,165₹",16,2
+SaudiArabia,RiyadhFrontRiyadh,Arabic,15:15,StandardPremium,"1,377₹",31,0
+SaudiArabia,RiyadhFrontRiyadh,Arabic,15:15,Standard,"1,165₹",16,2
+SaudiArabia,TabukParkTabuk,Arabic,16:45,Standard,"1,000₹",20,1
+SaudiArabia,TabukParkTabuk,Arabic,16:45,StandardPremium,"1,191₹",28,0
+SaudiArabia,HailSquareHail,Arabic,17:30,Standard,"1,000₹",26,1
+SaudiArabia,HailSquareHail,Arabic,17:30,StandardPremium,"1,191₹",20,0
+SaudiArabia,HailSquareHail,Arabic,21:30,Standard,"1,000₹",26,1
+SaudiArabia,HailSquareHail,Arabic,21:30,StandardPremium,"1,191₹",20,0
+SaudiArabia,RiyadhFrontRiyadh,Arabic,23:45,StandardPremium,"1,377₹",31,0
+SaudiArabia,RiyadhFrontRiyadh,Arabic,23:45,Standard,"1,165₹",16,2
