@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhFrontRiyadh,Korean,11:15,StandardPremium,"1,377₹",24,0
+SaudiArabia,RiyadhFrontRiyadh,Korean,11:15,Standard,"1,165₹",32,2
+SaudiArabia,RiyadhFrontRiyadh,Korean,20:15,StandardPremium,"1,377₹",24,0
+SaudiArabia,RiyadhFrontRiyadh,Korean,20:15,Standard,"1,165₹",32,2
