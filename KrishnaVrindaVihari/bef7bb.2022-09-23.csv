@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,Ruwi,Telugu,09:00,Standard,631₹,27,0
+Uae,CityCentreSharjah,Telugu,12:15,StandardPremium,914₹,46,0
+Oman,Azaiba,Telugu,18:15,Standard,589₹,97,4
+Uae,CityCentreSharjah,Telugu,18:30,StandardPremium,914₹,46,0
