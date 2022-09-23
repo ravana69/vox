@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Nepali,08:00,Standard,796₹,41,4
+Uae,CityCentreShindagha,Nepali,08:10,Standard,796₹,67,0
+Uae,CityCentreShindagha,Nepali,08:10,StandardPremium,"1,040₹",24,3
+Uae,CityCentreSharjah,Nepali,09:15,StandardPremium,910₹,46,0
+Uae,Burjuman,Nepali,11:20,VipPremium,"1,366₹",50,3
+Oman,Azaiba,Nepali,12:10,Standard,589₹,97,9
+Uae,CityCentreShindagha,Nepali,13:45,Standard,796₹,67,0
+Uae,CityCentreShindagha,Nepali,13:45,StandardPremium,"1,040₹",24,0
+Uae,Burjuman,Nepali,13:50,Standard,796₹,41,4
+Uae,CityCentreSharjah,Nepali,15:30,StandardPremium,910₹,46,0
+Uae,CityCentreShindagha,Nepali,19:20,Standard,796₹,67,0
+Uae,CityCentreShindagha,Nepali,19:20,StandardPremium,"1,040₹",24,0
