@@ -1,0 +1,6 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Telugu,14:45,Standard,812₹,35,19
+Uae,CityCentreShindagha,Telugu,14:45,Standard,812₹,31,8
+Uae,CityCentreShindagha,Telugu,14:45,StandardPremium,"1,061₹",14,5
+Uae,CityCentreSharjah,Telugu,18:15,StandardPremium,929₹,46,0
+Oman,Azaiba,Telugu,18:15,Standard,599₹,97,4
