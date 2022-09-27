@@ -1,0 +1,7 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Lebanon,CityCentreBeirut,English,08:30,Standard,"4,539₹",55,5
+Lebanon,CityCentreBeirut,English,08:30,StandardVip,"5,073₹",23,1
+Lebanon,CityCentreBeirut,English,14:15,Standard,"4,539₹",55,5
+Lebanon,CityCentreBeirut,English,14:15,StandardVip,"5,073₹",23,1
+Uae,TheGalleriaAlMaryahIsland,English,18:30,StandardPremium,"1,128₹",28,0
+Uae,TheGalleriaAlMaryahIsland,English,18:30,Standard,884₹,16,0
