@@ -1,0 +1,4 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Tagalog,09:20,StandardPremium,"1,040₹",50,0
+Uae,CityCentreDeira,Tagalog,09:20,Standard,796₹,55,0
+Uae,CityCentreDeira,Tagalog,16:30,StandardPremium,"1,061₹",37,24

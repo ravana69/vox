@@ -1,0 +1,4 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreSharjah,Tamil,12:10,StandardPremium,910₹,70,0
+Oman,Azaiba,Tamil,13:15,Standard,589₹,102,4
+Uae,CityCentreSharjah,Tamil,18:00,StandardPremium,910₹,70,0

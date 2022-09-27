@@ -1,0 +1,7 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Qatar,DohaFestivalCity,English,09:00,Standard,878₹,22,0
+Qatar,DohaFestivalCity,English,09:00,StandardPremium,"1,097₹",28,3
+Qatar,DohaFestivalCity,English,12:10,Standard,887₹,22,0
+Qatar,DohaFestivalCity,English,12:10,StandardPremium,"1,109₹",28,10
+Qatar,DohaFestivalCity,English,19:00,KidsPremium,988₹,50,3
+SaudiArabia,AlQasrMallRiyadh,English,21:15,KidsPremium,"1,170₹",47,1

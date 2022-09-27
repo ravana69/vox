@@ -1,0 +1,4 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,English,11:45,Standard,452₹,41,2
+Egypt,MallOfEgypt,English,16:30,Standard,452₹,41,2
+Egypt,MallOfEgypt,English,21:30,Standard,452₹,41,2

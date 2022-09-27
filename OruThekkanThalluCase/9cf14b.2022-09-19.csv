@@ -1,0 +1,16 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,NizwaGrandMall,Malayalam,12:20,Standard,652₹,24,0
+Oman,NizwaGrandMall,Malayalam,12:20,StandardPremium,761₹,20,3
+Uae,CityCentreSharjah,Malayalam,15:15,Standard,796₹,40,0
+Uae,CityCentreSharjah,Malayalam,15:15,StandardVip,"1,040₹",26,3
+Uae,CityCentreShindagha,Malayalam,15:45,Standard,796₹,31,2
+Uae,CityCentreShindagha,Malayalam,15:45,StandardPremium,"1,040₹",14,0
+Uae,CityCentreDeira,Malayalam,18:20,Standard,798₹,54,0
+Uae,CityCentreDeira,Malayalam,18:20,StandardPremium,"1,042₹",50,0
+Oman,Azaiba,Malayalam,18:30,Standard,587₹,102,4
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,Standard,796₹,39,2
+Uae,MegaplexCineplexGrandHyatt,Malayalam,19:00,StandardPremium,"1,040₹",61,7
+Uae,CityCentreShindagha,Malayalam,19:00,Standard,796₹,31,2
+Uae,CityCentreShindagha,Malayalam,19:00,StandardPremium,"1,040₹",14,0
+Uae,CityCentreDeira,Malayalam,19:15,Standard,796₹,84,2
+Uae,CityCentreDeira,Malayalam,19:15,StandardPremium,"1,040₹",51,3

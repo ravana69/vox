@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,YasMallAbuDhabi,English,08:00,Standard,867₹,60,3
+Uae,YasMallAbuDhabi,English,08:00,StandardPremium,"1,105₹",71,4
+Uae,YasMallAbuDhabi,English,09:00,KidsPremium,975₹,68,2
+Uae,YasMallAbuDhabi,English,10:00,Standard,867₹,60,3
+Uae,YasMallAbuDhabi,English,10:00,StandardPremium,"1,105₹",71,4
+Uae,YasMallAbuDhabi,English,11:00,KidsPremium,975₹,68,2
+Uae,YasMallAbuDhabi,English,12:00,Standard,867₹,60,3
+Uae,YasMallAbuDhabi,English,12:00,StandardPremium,"1,105₹",71,4
+Uae,YasMallAbuDhabi,English,14:00,Standard,867₹,60,3
+Uae,YasMallAbuDhabi,English,14:00,StandardPremium,"1,105₹",71,4
+Uae,YasMallAbuDhabi,English,16:15,KidsPremium,975₹,38,2

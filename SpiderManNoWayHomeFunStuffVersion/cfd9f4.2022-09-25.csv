@@ -1,0 +1,9 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Lebanon,CityCentreBeirut,English,08:30,Standard,"4,474₹",40,1
+Lebanon,CityCentreBeirut,English,08:30,StandardVip,"5,000₹",27,1
+Qatar,DohaFestivalCity,English,09:00,Standard,887₹,22,0
+Qatar,DohaFestivalCity,English,09:00,StandardPremium,"1,109₹",28,3
+Qatar,DohaFestivalCity,English,12:10,Standard,892₹,22,0
+Qatar,DohaFestivalCity,English,12:10,StandardPremium,"1,115₹",28,3
+Qatar,DohaFestivalCity,English,19:00,KidsPremium,"1,004₹",50,3
+SaudiArabia,AlQasrMallRiyadh,English,21:15,KidsPremium,"1,187₹",47,1

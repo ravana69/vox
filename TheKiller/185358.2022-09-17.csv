@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,AlQasrMallRiyadh,Korean,10:00,StandardPremium,"1,379₹",18,0
+SaudiArabia,AlQasrMallRiyadh,Korean,10:00,Standard,"1,167₹",18,0
+SaudiArabia,AtyafMallRiyadh,Korean,16:45,Standard,"1,165₹",19,0
+SaudiArabia,AtyafMallRiyadh,Korean,16:45,StandardPremium,"1,377₹",22,2
+SaudiArabia,AlQasrMallRiyadh,Korean,17:00,StandardPremium,"1,377₹",18,2
+SaudiArabia,AlQasrMallRiyadh,Korean,17:00,Standard,"1,165₹",18,0
+SaudiArabia,HailSquareHail,Korean,19:25,Standard,"1,165₹",26,1
+SaudiArabia,HailSquareHail,Korean,19:25,StandardPremium,"1,377₹",20,0
+SaudiArabia,RiyadhFrontRiyadh,Korean,19:50,StandardPremium,"1,377₹",24,2
+SaudiArabia,RiyadhFrontRiyadh,Korean,19:50,Standard,"1,165₹",32,4
+SaudiArabia,AlQasrMallRiyadh,Korean,21:45,StandardPremium,"1,377₹",18,3
+SaudiArabia,AlQasrMallRiyadh,Korean,21:45,Standard,"1,165₹",18,6
