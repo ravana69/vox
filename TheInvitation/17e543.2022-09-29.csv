@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,English,12:45,StandardPremium,"1,068₹",48,8
+Egypt,MallOfEgypt,English,14:15,Standard,460₹,39,23
+Uae,CityCentreMirdif,English,15:00,StandardPremium,"1,070₹",29,1
+Uae,CityCentreMirdif,English,15:00,Standard,819₹,25,0
+Egypt,CityCentreAlmaza,English,16:20,StandardPremium,503₹,42,5
+Lebanon,CityCentreBeirut,English,16:30,Standard,"4,596₹",40,5
+Lebanon,CityCentreBeirut,English,16:30,StandardVip,"5,137₹",28,2
+Uae,CityCentreAlZahia,English,17:30,StandardPremium,"1,070₹",25,1
+Uae,CityCentreAlZahia,English,17:30,Standard,819₹,31,0
+Uae,TheGalleriaAlMaryahIsland,English,18:15,StandardPremium,"1,137₹",26,0
+Uae,TheGalleriaAlMaryahIsland,English,18:15,Standard,892₹,14,0
+Egypt,CityCentreAlmaza,English,18:55,StandardPremium,503₹,42,5
+Egypt,MallOfEgypt,English,19:15,Standard,461₹,39,4
+Uae,MallOfTheEmirates,English,19:20,StandardPremium,"1,070₹",48,4
+Oman,CityCentreMuscat,English,19:25,Standard,671₹,36,2
+Egypt,CityCentreAlmaza,English,21:30,StandardPremium,503₹,42,5
