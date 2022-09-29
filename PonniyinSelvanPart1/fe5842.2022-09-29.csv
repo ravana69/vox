@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Qatar,DohaOasis,Tamil,09:10,Standard,"1,012₹",68,0
+Qatar,DohaFestivalCity,Tamil,13:20,Standard,899₹,55,0
+Qatar,DohaFestivalCity,Tamil,13:20,StandardPremium,"1,124₹",57,12
+Qatar,DohaOasis,Tamil,16:00,Standard,"1,012₹",68,5

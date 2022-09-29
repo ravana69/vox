@@ -1,0 +1,8 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,English,09:20,Standard,812₹,51,0
+Uae,MallOfTheEmirates,English,09:20,StandardPremium,"1,061₹",58,4
+Uae,MallOfTheEmirates,English,10:40,StandardPremium,"1,066₹",48,7
+Uae,MallOfTheEmirates,English,14:00,Standard,819₹,51,2
+Uae,MallOfTheEmirates,English,14:00,StandardPremium,"1,070₹",58,7
+Uae,MallOfTheEmirates,English,18:40,Standard,819₹,51,2
+Uae,MallOfTheEmirates,English,18:40,StandardPremium,"1,070₹",58,16
