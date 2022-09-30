@@ -1,0 +1,6 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Lebanon,CityCentreBeirut,English,12:15,Standard,"4,578₹",47,1
+Lebanon,CityCentreBeirut,English,16:55,Standard,"4,594₹",47,1
+Oman,MallOfOman,English,19:00,StandardPremium,957₹,26,0
+Oman,MallOfOman,English,19:00,Standard,781₹,21,0
+Oman,CityCentreMuscat,English,19:40,Standard,668₹,36,2
