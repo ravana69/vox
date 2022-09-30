@@ -1,0 +1,17 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Hindi,05:45,Standard,819₹,35,0
+Uae,Burjuman,Hindi,07:15,VipPremium,"1,402₹",50,17
+Uae,Burjuman,Hindi,10:15,VipPremium,"1,402₹",50,18
+Uae,MegaplexCineplexGrandHyatt,Hindi,12:45,Standard,815₹,60,5
+Uae,MegaplexCineplexGrandHyatt,Hindi,12:45,StandardPremium,"1,064₹",70,16
+Uae,CityCentreSharjah,Hindi,12:50,Standard,815₹,45,8
+Uae,CityCentreSharjah,Hindi,12:50,StandardPremium,"1,064₹",35,8
+Uae,Burjuman,Hindi,13:15,VipPremium,"1,397₹",50,17
+Uae,Burjuman,Hindi,16:15,VipPremium,"1,402₹",50,18
+Uae,MegaplexCineplexGrandHyatt,Hindi,19:10,Standard,817₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,19:10,StandardPremium,"1,068₹",58,3
+Uae,Burjuman,Hindi,19:15,VipPremium,"1,402₹",50,15
+Uae,CityCentreSharjah,Hindi,19:20,Standard,819₹,45,0
+Uae,CityCentreSharjah,Hindi,19:20,StandardPremium,"1,070₹",35,2
+Uae,CityCentreDeira,Hindi,19:45,StandardPremium,"1,070₹",50,0
+Uae,CityCentreDeira,Hindi,19:45,Standard,819₹,55,0
