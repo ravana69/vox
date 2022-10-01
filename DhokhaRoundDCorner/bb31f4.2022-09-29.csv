@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,Azaiba,Hindi,07:50,Standard,605₹,102,4
+Uae,MegaplexCineplexGrandHyatt,Hindi,10:00,Standard,819₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,10:00,StandardPremium,"1,070₹",58,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,12:30,Standard,817₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,12:30,StandardPremium,"1,068₹",58,3
+Oman,Azaiba,Hindi,13:15,Standard,602₹,102,7
+Uae,MegaplexCineplexGrandHyatt,Hindi,15:00,Standard,819₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,15:00,StandardPremium,"1,070₹",58,4
+Uae,MegaplexCineplexGrandHyatt,Hindi,17:30,Standard,819₹,36,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,17:30,StandardPremium,"1,070₹",58,0

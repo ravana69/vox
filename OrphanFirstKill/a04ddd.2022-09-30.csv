@@ -1,0 +1,15 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,English,09:15,Standard,460₹,39,6
+Egypt,MallOfEgypt,English,11:45,Standard,460₹,39,4
+SaudiArabia,AlQasrMallRiyadh,English,16:15,StandardPremium,"1,414₹",32,2
+SaudiArabia,AlQasrMallRiyadh,English,16:15,Standard,"1,196₹",22,5
+Egypt,MallOfEgypt,English,16:45,Standard,460₹,39,6
+Uae,TheGalleriaAlMaryahIsland,English,17:20,StandardPremium,"1,135₹",28,1
+Uae,TheGalleriaAlMaryahIsland,English,17:20,Standard,890₹,16,0
+Bahrain,CityCentreBahrain,English,18:30,Standard,845₹,120,1
+SaudiArabia,AlQasrMallRiyadh,English,20:30,StandardPremium,"1,414₹",32,9
+SaudiArabia,AlQasrMallRiyadh,English,20:30,Standard,"1,196₹",22,0
+Bahrain,CityCentreBahrain,English,20:45,Standard,845₹,120,3
+SaudiArabia,TheEsplanadeRiyadh,English,20:45,StandardPremium,"1,414₹",32,7
+SaudiArabia,TheEsplanadeRiyadh,English,20:45,Standard,"1,196₹",32,0
+Egypt,MallOfEgypt,English,21:45,Standard,460₹,39,4
