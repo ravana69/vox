@@ -1,0 +1,7 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MegaplexCineplexGrandHyatt,Hindi,10:30,Standard,815₹,39,0
+Uae,MegaplexCineplexGrandHyatt,Hindi,10:30,StandardPremium,"1,064₹",61,1
+Uae,MegaplexCineplexGrandHyatt,Hindi,13:00,Standard,816₹,39,4
+Uae,MegaplexCineplexGrandHyatt,Hindi,13:00,StandardPremium,"1,066₹",61,17
+Uae,MegaplexCineplexGrandHyatt,Hindi,19:00,Standard,815₹,39,6
+Uae,MegaplexCineplexGrandHyatt,Hindi,19:00,StandardPremium,"1,064₹",61,5
