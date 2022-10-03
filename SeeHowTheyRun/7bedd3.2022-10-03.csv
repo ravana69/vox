@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Kuwait,TheAvenuesKuwait,English,11:50,HubStandard,"2,633₹",60,4
+Kuwait,TheAvenuesKuwait,English,14:25,StandardPremiumFamily,"1,188₹",15,6
+Kuwait,TheAvenuesKuwait,English,14:25,StandardStandardFamily,924₹,10,1
+Kuwait,TheAvenuesKuwait,English,14:25,StandardPremiumBachelor,"1,188₹",12,6
+Kuwait,TheAvenuesKuwait,English,14:25,StandardStandardBachelor,924₹,10,1
+Uae,TheGalleriaAlMaryahIsland,English,17:45,StandardPremium,"1,136₹",28,0
+Uae,TheGalleriaAlMaryahIsland,English,17:45,Standard,891₹,16,0
+Egypt,MallOfEgypt,English,20:30,Standard,458₹,41,2
+SaudiArabia,SaharaMallRiyadh,English,22:30,Standard,"1,197₹",56,1
+SaudiArabia,SaharaMallRiyadh,English,22:30,StandardPremium,"1,414₹",52,0
