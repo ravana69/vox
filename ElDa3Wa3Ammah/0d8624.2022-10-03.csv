@@ -1,0 +1,3 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreAlZahia,Egyptian,19:15,StandardPremium,"1,069₹",32,0
+Uae,CityCentreAlZahia,Egyptian,19:15,Standard,818₹,25,3

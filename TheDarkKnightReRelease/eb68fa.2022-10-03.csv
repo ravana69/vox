@@ -1,0 +1,3 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhParkRiyadh,English,00:15,VipPremium,"1,738₹",34,0
+SaudiArabia,RedSeaMallJeddah,English,00:30,KidsStandard,"1,195₹",69,1

@@ -1,0 +1,8 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,English,14:15,Standard,459₹,39,6
+Uae,CityCentreMirdif,English,15:00,StandardPremium,"1,066₹",29,2
+Uae,CityCentreMirdif,English,15:00,Standard,816₹,25,0
+Uae,MallOfTheEmirates,English,15:10,StandardPremium,"1,066₹",48,13
+Uae,CityCentreAlZahia,English,19:30,StandardPremium,"1,066₹",25,1
+Uae,CityCentreAlZahia,English,19:30,Standard,816₹,31,0
+Egypt,MallOfEgypt,English,21:45,Standard,459₹,39,4

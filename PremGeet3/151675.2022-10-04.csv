@@ -1,0 +1,4 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,Burjuman,Nepali,15:00,Standard,816₹,31,21
+Uae,CityCentreShindagha,Nepali,16:00,Standard,816₹,31,9
+Uae,CityCentreShindagha,Nepali,16:00,StandardPremium,"1,066₹",14,3
