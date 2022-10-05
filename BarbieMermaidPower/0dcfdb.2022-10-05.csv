@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,English,07:45,KidsVip,456₹,31,0
+Egypt,MallOfEgypt,English,09:45,KidsVip,456₹,31,0
+Egypt,MallOfEgypt,English,12:15,KidsVip,456₹,31,3
+Egypt,MallOfEgypt,English,14:15,KidsVip,456₹,31,4
+Egypt,CityCentreAlmaza,English,14:15,KidsPremium,456₹,67,7
+Egypt,MallOfEgypt,English,16:15,KidsVip,456₹,31,0
+Egypt,CityCentreAlmaza,English,16:15,KidsPremium,456₹,67,11
+Egypt,MallOfEgypt,English,18:15,KidsVip,456₹,31,6
+Egypt,CityCentreAlmaza,English,18:15,KidsPremium,456₹,67,11
+Egypt,MallOfEgypt,English,20:15,KidsVip,456₹,31,0
