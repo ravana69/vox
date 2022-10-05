@@ -1,0 +1,13 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,MallOfTheEmirates,English,08:45,StandardPremium,"1,066₹",48,4
+Bahrain,CityCentreBahrain,English,09:15,Standard,843₹,130,5
+Bahrain,CityCentreBahrain,English,13:45,Standard,842₹,130,6
+Uae,CityCentreAlZahia,English,15:00,StandardPremium,"1,065₹",25,5
+Uae,CityCentreAlZahia,English,15:00,Standard,815₹,31,9
+Oman,MallOfOman,English,16:35,KidsPremium,780₹,20,0
+Qatar,DohaFestivalCity,English,18:00,KidsPremium,"1,007₹",50,5
+Uae,YasMallAbuDhabi,English,18:15,KidsPremium,999₹,38,5
+Bahrain,CityCentreBahrain,English,18:15,Standard,842₹,130,7
+Oman,CityCentreMuscat,English,18:45,Standard,668₹,36,7
+Uae,CityCentreMirdif,English,19:00,KidsPremium,932₹,44,0
+Qatar,DohaFestivalCity,English,20:15,KidsPremium,"1,007₹",50,3
