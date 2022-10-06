@@ -1,0 +1,16 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Bahrain,CityCentreBahrain,English,08:00,Standard,842₹,116,0
+SaudiArabia,AlQasrMallRiyadh,English,08:15,StandardPremium,"1,410₹",27,0
+SaudiArabia,AlQasrMallRiyadh,English,08:15,Standard,"1,193₹",26,0
+Egypt,MallOfEgypt,English,08:45,KidsPremium,456₹,31,14
+Bahrain,CityCentreBahrain,English,10:15,Standard,842₹,116,0
+Bahrain,CityCentreBahrain,English,12:15,Standard,848₹,116,3
+Kuwait,TheAvenuesKuwait,English,13:50,KidsStandard,928₹,47,32
+Bahrain,CityCentreBahrain,English,14:15,Standard,848₹,116,23
+SaudiArabia,JubailGalleriaMallJubail,English,14:30,KidsStandard,"1,201₹",45,0
+SaudiArabia,JubailGalleriaMallJubail,English,14:30,KidsLounger,"1,201₹",4,0
+SaudiArabia,RiyadhParkRiyadh,English,15:30,KidsPremium,"1,201₹",38,35
+Uae,NakheelMall,English,15:30,KidsStandard,939₹,44,0
+Uae,YasMallAbuDhabi,English,15:40,KidsStandard,"1,028₹",38,6
+Uae,MallOfTheEmirates,English,15:45,KidsStandard,939₹,48,4
+SaudiArabia,RiyadhParkRiyadh,English,19:15,KidsPremium,"1,201₹",38,18
