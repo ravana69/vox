@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Oman,Mgm,Malayalam,12:15,StandardPremium,572₹,38,0
+Oman,Mgm,Malayalam,12:15,Standard,572₹,35,2
+Oman,Ruwi,Malayalam,12:40,Standard,644₹,429,391
+Oman,Ruwi,Malayalam,12:40,StandardPremium,513₹,396,0
+Oman,Salalah,Malayalam,16:00,Standard,445₹,106,0
+Oman,Salalah,Malayalam,16:00,StandardPremium,668₹,112,0
+Oman,Ruwi,Malayalam,16:25,StandardPremium,513₹,98,5
+Oman,Ruwi,Malayalam,19:15,Standard,644₹,429,392
+Oman,Ruwi,Malayalam,19:15,StandardPremium,513₹,396,10
+Oman,Salalah,Malayalam,19:15,Standard,445₹,106,0
+Oman,Salalah,Malayalam,19:15,StandardPremium,668₹,112,0
