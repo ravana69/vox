@@ -1,0 +1,10 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Tamil,09:35,Standard,932₹,96,1
+Uae,CityCentreDeira,Tamil,09:35,StandardPremium,"1,154₹",45,2
+Uae,CityCentreDeira,Tamil,09:35,StandardPreferredView,"1,221₹",12,0
+Uae,CityCentreSharjah,Tamil,09:50,Standard,932₹,40,4
+Uae,CityCentreSharjah,Tamil,09:50,StandardVip,"1,154₹",18,0
+Uae,CityCentreSharjah,Tamil,09:50,StandardPreferredView,"1,221₹",8,0
+Uae,CityCentreSharjah,Tamil,16:15,Standard,932₹,40,0
+Uae,CityCentreSharjah,Tamil,16:15,StandardVip,"1,154₹",18,0
+Uae,CityCentreSharjah,Tamil,16:15,StandardPreferredView,"1,221₹",8,0
