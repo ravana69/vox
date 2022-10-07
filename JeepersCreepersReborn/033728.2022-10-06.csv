@@ -1,0 +1,11 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,TabukParkTabuk,English,13:00,Standard,"1,201₹",21,0
+SaudiArabia,TabukParkTabuk,English,13:00,StandardPremium,"1,419₹",29,1
+SaudiArabia,TabukParkTabuk,English,17:15,Standard,"1,201₹",21,2
+SaudiArabia,TabukParkTabuk,English,17:15,StandardPremium,"1,419₹",29,5
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,19:25,Standard,"1,201₹",44,0
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,19:25,StandardPremium,"1,419₹",45,14
+SaudiArabia,TabukParkTabuk,English,21:30,Standard,"1,201₹",21,0
+SaudiArabia,TabukParkTabuk,English,21:30,StandardPremium,"1,419₹",29,1
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,23:30,Standard,"1,201₹",44,0
+SaudiArabia,TheSpotSheikhJaberRiyadh,English,23:30,StandardPremium,"1,419₹",45,0
