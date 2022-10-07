@@ -1,0 +1,10 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Egypt,MallOfEgypt,Arabic,10:00,Standard,456₹,39,4
+Egypt,MallOfEgypt,Arabic,12:15,Standard,456₹,39,4
+Egypt,MallOfEgypt,Arabic,13:30,Standard,459₹,41,8
+Egypt,MallOfEgypt,Arabic,14:30,Standard,456₹,39,4
+Egypt,MallOfEgypt,Arabic,16:45,Standard,456₹,39,4
+Egypt,MallOfEgypt,Arabic,18:15,Standard,459₹,41,4
+Egypt,MallOfEgypt,Arabic,19:00,Standard,456₹,39,4
+Egypt,CityCentreAlmaza,Arabic,19:15,StandardPremium,501₹,46,22
+Egypt,MallOfEgypt,Arabic,21:15,Standard,456₹,39,4

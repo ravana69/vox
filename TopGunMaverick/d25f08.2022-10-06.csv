@@ -1,0 +1,12 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,RiyadhParkRiyadh,English,00:00,IceImmersivePremium,"1,626₹",51,0
+SaudiArabia,RiyadhParkRiyadh,English,00:00,IceImmersiveStandard,"1,626₹",47,0
+Lebanon,CityCentreBeirut,English,11:00,4DxStandard,"9,166₹",60,5
+SaudiArabia,TownSquareJeddah,English,14:00,IceImmersivePremium,"1,638₹",147,1
+Uae,CityCentreMirdif,English,16:30,StandardPremium,"1,163₹",24,6
+Uae,CityCentreMirdif,English,16:30,StandardPreferredView,"1,230₹",14,11
+Lebanon,CityCentreBeirut,English,16:45,4DxStandard,"9,228₹",60,18
+Uae,MallOfTheEmirates,English,17:10,KidsStandard,939₹,47,16
+Uae,TheGalleriaAlMaryahIsland,English,17:40,Standard,"1,028₹",54,4
+Uae,TheGalleriaAlMaryahIsland,English,17:40,StandardLounger,"1,028₹",5,0
+SaudiArabia,TownSquareJeddah,English,20:00,IceImmersivePremium,"1,638₹",147,3

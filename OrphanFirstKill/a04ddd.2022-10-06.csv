@@ -1,0 +1,5 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+SaudiArabia,AlQasrMallRiyadh,English,20:00,KidsPremium,"1,201₹",47,3
+SaudiArabia,AlQasrMallRiyadh,English,22:15,KidsPremium,"1,201₹",47,1
+SaudiArabia,AlQasrMallRiyadh,English,23:30,KidsPremium,"1,419₹",46,2
+SaudiArabia,AlQasrMallRiyadh,English,23:30,KidsStandard,"1,201₹",44,0

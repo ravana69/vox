@@ -1,0 +1,7 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreDeira,Hindi,11:15,Standard,932₹,64,9
+Uae,CityCentreDeira,Hindi,11:15,StandardPremium,"1,154₹",30,4
+Uae,CityCentreDeira,Hindi,11:15,StandardPreferredView,"1,221₹",13,5
+Uae,CityCentreDeira,Hindi,18:00,Standard,939₹,64,21
+Uae,CityCentreDeira,Hindi,18:00,StandardPremium,"1,163₹",30,6
+Uae,CityCentreDeira,Hindi,18:00,StandardPreferredView,"1,230₹",13,2

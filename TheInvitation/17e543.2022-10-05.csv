@@ -1,0 +1,9 @@
+Country,Name,Language,Time(UTC),Type,Price,Capacity,Booked
+Uae,CityCentreAlZahia,English,17:15,StandardPremium,"1,065₹",25,3
+Uae,CityCentreAlZahia,English,17:15,Standard,815₹,31,5
+Egypt,CityCentreAlmaza,English,17:30,StandardPremium,497₹,42,32
+Uae,TheGalleriaAlMaryahIsland,English,18:00,StandardPremium,"1,132₹",26,0
+Uae,TheGalleriaAlMaryahIsland,English,18:00,Standard,888₹,14,7
+Uae,MallOfTheEmirates,English,19:20,StandardPremium,"1,065₹",48,10
+Uae,CityCentreMirdif,English,19:25,StandardPremium,"1,065₹",29,0
+Uae,CityCentreMirdif,English,19:25,Standard,815₹,25,0
